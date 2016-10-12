@@ -1,0 +1,9 @@
+.about {
+  color: blue;
+  font-style: italic;
+}
+.post {
+  color: green;
+  width: 50%;
+  margin-left: 25%;
+}
